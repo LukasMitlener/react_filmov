@@ -31,7 +31,7 @@ const Search = () => {
         variant="standard"
         InputProps={{
           className: classes.input,
-          startAdorment: (
+          startAdornment: (
           <InputAdornment position="start">
             <SearchIcon />
           </InputAdornment>
